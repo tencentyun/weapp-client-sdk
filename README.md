@@ -32,7 +32,7 @@ var qcloud = require('./bower_components/wafer-client-sdk/index.js');
 登录可以在小程序和服务器之间建立会话，服务器由此可以获取到用户的标识和信息。
 
 ```js
-var qcloud = require('./bower_components/qcloud-weapp-client-sdk/index.js');
+var qcloud = require('./bower_components/wafer-client-sdk/index.js');
 
 // 设置登录地址
 qcloud.setLoginUrl('https://199447.qcloud.la/login');
